@@ -205,7 +205,7 @@ const EcommerceFooter = () => {
             <div className="d-flex flex-wrap justify-content-between align-items-center">
               <div className="mb-2 mb-md-0">
                 <small className="text-muted">
-                  Copyright © 1995-2025 Store Inc. All Rights Reserved.
+                  Copyright © 2025 Store Inc. All Rights Reserved.
                   <br />
                   Powered by <a href="https://kjanuda.github.io/JanudaJK.me/" className="text-decoration-none">Januda J Kodithuwakku</a>
                 </small>
